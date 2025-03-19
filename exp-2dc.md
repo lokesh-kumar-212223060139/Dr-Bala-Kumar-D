@@ -1,3 +1,5 @@
+## experiment -2  Write a simple Natural sampling program using Python.
+
 ## LOKESH KUMAR.B_212223060139
 ## Write a simple Natural sampling program using Python.
 
